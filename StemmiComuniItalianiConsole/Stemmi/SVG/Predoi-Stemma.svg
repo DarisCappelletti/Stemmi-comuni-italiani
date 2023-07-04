@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="605.00000px"
+   height="755.00000px"
+   id="svg2371"
+   sodipodi:version="0.32"
+   inkscape:version="0.45.1"
+   sodipodi:docname="Prettau.svg"
+   sodipodi:docbase="/home/alex/Wappen/SVG/ITALIA/TAA/BZ"
+   inkscape:export-filename="/home/alex/Wappen/EPS/ITALIA/TAA/BZ/Prettau.png"
+   inkscape:export-xdpi="59.500000"
+   inkscape:export-ydpi="59.500000"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata2398">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="887"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.90993377"
+     inkscape:cx="302.5"
+     inkscape:cy="377.5"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:current-layer="layer4" />
+  <defs
+     id="defs2373">
+    <marker
+       id="ArrowEnd"
+       viewBox="0 0 10 10"
+       refX="0"
+       refY="5"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       markerHeight="3"
+       orient="auto">
+      <path
+         d="M 0 0 L 10 5 L 0 10 z"
+         id="path2376" />
+    </marker>
+    <marker
+       id="ArrowStart"
+       viewBox="0 0 10 10"
+       refX="10"
+       refY="5"
+       markerUnits="strokeWidth"
+       markerWidth="4"
+       markerHeight="3"
+       orient="auto">
+      <path
+         d="M 10 0 L 0 5 L 10 10 z"
+         id="path2379" />
+    </marker>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Schild">
+    <g
+       id="g2407"
+       style="stroke:#000000;stroke-opacity:1.0000000">
+      <path
+         style="fill:#0762bc;fill-rule:evenodd;stroke:#000000;stroke-opacity:1.0000000"
+         d="M 302.49960,422.49600 L 227.49960,212.49600 L 152.49960,422.49600 L 77.500000,212.49600 L 2.5000000,422.49600 L 2.5000000,2.4964000 L 602.49960,2.4964000 L 602.49960,422.49600 L 527.49960,212.49600 L 452.49960,422.49600 L 377.49960,212.49600 L 302.49960,422.49600"
+         id="path2383" />
+      <path
+         style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-opacity:1.0000000"
+         d="M 602.49960,422.49600 L 602.49960,452.49600 C 602.49960,618.18000 468.19060,752.49600 302.49960,752.49600 C 136.81560,752.49600 2.5000000,618.18700 2.5000000,452.49600 L 2.5000000,422.49600 L 77.500000,212.49600 L 152.49960,422.49600 L 227.49960,212.49600 L 302.49960,422.49600 L 377.49960,212.49600 L 452.49960,422.49600 L 527.49960,212.49600 L 602.49960,422.49600"
+         id="path2387" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Figur">
+    <path
+       id="path2391"
+       d="M 224.49960,414.35500 C 230.49960,416.85500 231.99960,420.85500 233.99960,423.85500 C 218.87460,438.83200 204.68760,454.57400 191.74160,469.78500 C 206.22960,486.18000 257.32760,535.71100 302.49960,578.80100 C 347.67160,535.71100 398.76960,486.18000 413.25760,469.78500 C 400.31160,454.57400 386.12460,438.83200 370.99960,423.85500 C 372.99960,420.85500 374.49960,416.85500 380.49960,414.35500 C 402.62460,430.85500 463.49960,511.85500 479.99960,551.35500 C 467.83160,538.85900 446.35860,509.26600 418.71060,476.24600 C 403.28060,491.89400 353.59760,541.66000 309.57760,585.54700 C 342.34760,616.74600 370.67960,643.31200 377.50360,649.35500 C 377.50360,649.35500 371.64460,660.89500 370.00360,659.35600 C 363.40560,653.14500 335.18360,625.16000 302.50360,592.59800 C 269.82760,625.15600 241.60460,653.14500 235.00360,659.35600 C 233.36660,660.89500 227.50360,649.35500 227.50360,649.35500 C 234.32360,643.31200 262.65560,616.75000 295.42960,585.54700 C 251.40960,541.66000 201.72660,491.89800 186.29660,476.24600 C 158.65160,509.26600 137.17960,538.85500 125.00760,551.35500 C 141.50760,511.85500 202.38260,430.85500 224.50760,414.35500"
+       style="fill:#000000;fill-rule:evenodd;stroke:#000000;stroke-opacity:1.0000000" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Rand">
+    <path
+       id="path2395"
+       d="M 2.5000000,2.5004000 L 602.49960,2.5004000 L 602.49960,452.50000 C 602.49960,618.18400 468.19060,752.50000 302.49960,752.50000 C 136.81560,752.50000 2.5000000,618.19100 2.5000000,452.50000 L 2.5000000,2.5004000 z "
+       style="fill:none;stroke:#000000;stroke-width:5.0000000;stroke-miterlimit:4.0000000;stroke-dasharray:none" />
+  </g>
+</svg>

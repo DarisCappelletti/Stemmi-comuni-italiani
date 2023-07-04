@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="438"
+   height="480"
+   viewBox="21 15 438 480"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="Rodengo-Stemma.svg"
+   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="0.39939024"
+     inkscape:cx="1138.5396"
+     inkscape:cy="126.91331"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g17" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <rdf:Description
+         dc:title="Wappen Trans (CH-GR)"
+         dc:date="2006-10-26"
+         dc:format="image/svg+xml"
+         dc:language="de">
+        <dc:creator
+           rdf:resource="http://de.wikipedia.org/wiki/Benutzer:Bernina" />
+      </rdf:Description>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title4">
+Wappen Trans (CH-GR)
+</title>
+  <defs
+     id="defs11">
+    <clipPath
+       id="clippath">
+      <path
+         d="M360,4140 A3240,3240 0.0 0 0 6840,4140 L6840,270 L360,270 L360,4140 Z"
+         id="path6" />
+    </clipPath>
+    <style
+       type="text/css"
+       id="style9"><![CDATA[
+  .Rand3 { stroke: #202020; stroke-width:45; }
+  .Rand6 { stroke: #202020; stroke-width:90; }
+  .Rot { fill: #ff0000; }
+  .Gold { fill: #ffef00; }
+  ]]></style>
+  </defs>
+  <g
+     stroke="none"
+     stroke-miterlimit="10"
+     stroke-width="10"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     fill="none"
+     fill-rule="evenodd"
+     transform="scale(0.066667)"
+     id="g20">
+    <g
+       clip-path="url(#clippath)"
+       id="g17">
+      <path
+         id="feld-1"
+         class="Rot"
+         d="M-225,-225 L-225,7425 L7425,7425 L7425,-225 L-225,-225 Z"
+         style="fill:#00ccff" />
+      <path
+         id="sparren-1"
+         class="Gold"
+         d="M3600,270 L-315,5490 L-315,7425 L270,7425 L3600,2970 L6930,7425          L7515,7425 L7515,5490 L3600,270 Z"
+         style="fill:#ffffff" />
+      <path
+         id="linie-1"
+         class="Rand3"
+         d="M-315,5490 L3600,270 L7515,5490" />
+      <path
+         id="linie-2"
+         class="Rand3"
+         d="M270,7425 L3600,2970 L6930,7425" />
+    </g>
+    <path
+       id="clip-boundary"
+       class="Rand6"
+       d="M360,4140 A3240,3240 0.0 0 0 6840,4140 L6840,270 L360,270 L360,4140 Z" />
+  </g>
+</svg>
