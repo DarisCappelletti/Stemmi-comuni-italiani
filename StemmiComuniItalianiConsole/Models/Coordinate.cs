@@ -11,5 +11,6 @@ namespace StemmiComuniItalianiConsole.Models
         public string NomeComune { get; set; }
         public dynamic latitude { get; set; }
         public dynamic longitude { get; set; }
+        public bool StemmaTrovato { get; set; }
     }
 }

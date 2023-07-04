@@ -2,7 +2,7 @@
   "profiles": {
     "StemmiComuniItalianiConsole": {
       "commandName": "Project",
-      "commandLineArgs": "-d C:\\Users\\Lavoro\\source\\repos\\StemmiComuniItalianiConsole\\StemmiComuniItalianiConsole\\bin\\Debug\\netcoreapp3.1\\Stemmi"
+      "commandLineArgs": "-d C:\\ProgettiPersonali\\DownloadStemmi2"
     }
   }
 }
